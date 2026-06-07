@@ -4,32 +4,32 @@
 ## Results & Figures
 
 ### Figure 1 — PDR under Reactive Jamming: SF7 vs SF12 (Rural and Urban)
-![Figure 1](data-generation/images/figura1_pdr_sf_fixo.png)
+![Figure 1](https://raw.githubusercontent.com/LabirasIFPI/TCC-LoRaWAN-Security/main/data-generation/images/figura1_pdr_sf_fixo.png)
 
 ---
 
 ### Figure 2 — Average Energy Consumption with Active ADR under Reactive Jamming
-![Figure 2](data-generation/images/figura2_energia_adr.png)
+![Figure 2](https://raw.githubusercontent.com/LabirasIFPI/TCC-LoRaWAN-Security/main/data-generation/images/figura2_energia_adr.png)
 
 ---
 
 ### Figure 3 — PDR for all Spreading Factors with Active ADR
-![Figure 3](data-generation/images/figura3_pdr_adr_todos_sfs.png)
+![Figure 3](https://raw.githubusercontent.com/LabirasIFPI/TCC-LoRaWAN-Security/main/data-generation/images/figura3_pdr_adr_todos_sfs.png)
 
 ---
 
 ### Figure 4 — Average Energy Consumption with Fixed SF
-![Figure 4](data-generation/images/figura4_energia_sf_fixo.png)
+![Figure 4](https://raw.githubusercontent.com/LabirasIFPI/TCC-LoRaWAN-Security/main/data-generation/images/figura4_energia_sf_fixo.png)
 
 ---
 
 ### Figure 5 — Jammer Impact on PDR by Spreading Factor
-![Figure 5](data-generation/images/figura5_queda_pdr_jammer.png)
+![Figure 5](https://raw.githubusercontent.com/LabirasIFPI/TCC-LoRaWAN-Security/main/data-generation/images/figura5_queda_pdr_jammer.png)
 
 ---
 
 ### Figure 6 — Battery Lifetime Estimation under Attack
-![Figure 6](data-generation/images/figura6_vida_util_bateria.png)
+![Figure 6](https://raw.githubusercontent.com/LabirasIFPI/TCC-LoRaWAN-Security/main/data-generation/images/figura6_vida_util_bateria.png)
 
 ---
 
